@@ -55,6 +55,7 @@
   <a href="mailto:gustavofhabermann@gmail.com">
     <img height="30" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <br>
   <a href="https://www.linkedin.com/in/gustavo-habermann-b26bb0350/">
     <img height="30" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
