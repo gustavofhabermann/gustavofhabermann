@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 - 📚 Studying **Object-Oriented Programming (Java and C#)**  
-- 🌱 Currently learning **Java**, **Spring Boot**, **JDBC**, **C#**, **.NET**, and **REST APIs**  
+- 🌱 Currently learning **Java**, **Spring Boot**, **JDBC**, **PostegreSql**, and **REST APIs**  
 - ⚙️ Interested in **software architecture**, **clean code**, and best development practices  
 - 📈 Motivated to improve a little more every day  
 
