@@ -63,5 +63,3 @@
 </div>
 
 ---
-
-### ✨ “Building today what will take me further tomorrow.”
